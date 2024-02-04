@@ -1,0 +1,8 @@
+Informações:
+base de dados "Spambase", focada emn classificar emails como spam ou não-spam.
+4601 istâncias  
+57 características- 
+E-mail spam -  
+E-mail não-spam - "George" e "650"; 
+(1) - spam
+(0) - Não Spam 
