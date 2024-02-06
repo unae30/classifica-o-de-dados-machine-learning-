@@ -1,7 +1,9 @@
 Informações:
 base de dados "Spambase", focada emn classificar emails como spam ou não-spam.
-4601 istâncias  
-57 características- 
+4601 istâncias - numero total de emails 
+57 características- atributos extraidos (incluindo a frequência de palavras e caracteres específicos, 
+bem como estatísticas sobre o uso de letras maiúsculas, que são usados para ajudar na 
+classificação de um email como spam ou não.)
 E-mail spam -  
 E-mail não-spam - "George" e "650"; 
 (1) - spam
