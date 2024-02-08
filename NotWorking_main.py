@@ -7,8 +7,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score
 import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
+#from tensorflow.keras.models import Sequential
+#from tensorflow.keras.layers import Dense
   
 # fetch dataset 
 spambase = fetch_ucirepo(id=94) #Utilização da função "fetch..."para baixar o dataset de ID 94
