@@ -5,3 +5,6 @@ Neste trabalho, iremos treinar os algorítmos Perceptron e MLP de uma camada ocu
 
 A saída deste programa são as métricas de acurácia, sensibilidade, efitividade e precisão, além da matriz de cunfusão.
 
+
+Aunos: Lê Alves e Unaê Antunes Tupinambás  
+Trabalho 2 da disciplina de Inteligência Artificial
